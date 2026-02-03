@@ -1,0 +1,214 @@
+{
+  "patients": [
+    {
+      "patient_id": "PAT001",
+      "heart_rate": 97,
+      "blood_pressure": 102,
+      "temperature": 36.3,
+      "timestamp": "2026-01-29T13:39:59.424664+00:00"
+    },
+    {
+      "patient_id": "PAT002",
+      "heart_rate": 90,
+      "blood_pressure": 80,
+      "temperature": 37.3,
+      "timestamp": "2026-01-31T13:39:59.424679+00:00"
+    },
+    {
+      "patient_id": "PAT003",
+      "heart_rate": 76,
+      "blood_pressure": 117,
+      "temperature": 36.3,
+      "timestamp": "2026-01-12T13:39:59.424684+00:00"
+    },
+    {
+      "patient_id": "PAT004",
+      "heart_rate": 84,
+      "blood_pressure": 80,
+      "temperature": 36.6,
+      "timestamp": "2026-01-20T13:39:59.424688+00:00"
+    },
+    {
+      "patient_id": "PAT005",
+      "heart_rate": 83,
+      "blood_pressure": 85,
+      "temperature": 37.0,
+      "timestamp": "2026-01-07T13:39:59.424692+00:00"
+    },
+    {
+      "patient_id": "PAT006",
+      "heart_rate": 63,
+      "blood_pressure": 123,
+      "temperature": 36.3,
+      "timestamp": "2026-01-28T13:39:59.424695+00:00"
+    },
+    {
+      "patient_id": "PAT007",
+      "heart_rate": 96,
+      "blood_pressure": 93,
+      "temperature": 36.8,
+      "timestamp": "2026-01-06T13:39:59.424698+00:00"
+    },
+    {
+      "patient_id": "PAT008",
+      "heart_rate": 92,
+      "blood_pressure": 93,
+      "temperature": 36.7,
+      "timestamp": "2026-01-05T13:39:59.424701+00:00"
+    },
+    {
+      "patient_id": "PAT009",
+      "heart_rate": 88,
+      "blood_pressure": 91,
+      "temperature": 36.4,
+      "timestamp": "2026-01-08T13:39:59.424704+00:00"
+    },
+    {
+      "patient_id": "PAT010",
+      "heart_rate": 69,
+      "blood_pressure": 83,
+      "temperature": 36.0,
+      "timestamp": "2026-01-29T13:39:59.424707+00:00"
+    },
+    {
+      "patient_id": "PAT011",
+      "heart_rate": 100,
+      "blood_pressure": 97,
+      "temperature": 36.9,
+      "timestamp": "2026-01-09T13:39:59.424710+00:00"
+    },
+    {
+      "patient_id": "PAT012",
+      "heart_rate": 72,
+      "blood_pressure": 135,
+      "temperature": 36.1,
+      "timestamp": "2026-02-02T13:39:59.424714+00:00"
+    },
+    {
+      "patient_id": "PAT013",
+      "heart_rate": 87,
+      "blood_pressure": 139,
+      "temperature": 37.2,
+      "timestamp": "2026-01-12T13:39:59.424717+00:00"
+    },
+    {
+      "patient_id": "PAT014",
+      "heart_rate": 76,
+      "blood_pressure": 116,
+      "temperature": 36.9,
+      "timestamp": "2026-01-14T13:39:59.424720+00:00"
+    },
+    {
+      "patient_id": "PAT015",
+      "heart_rate": 90,
+      "blood_pressure": 125,
+      "temperature": 37.1,
+      "timestamp": "2026-01-29T13:39:59.424723+00:00"
+    },
+    {
+      "patient_id": "PAT016",
+      "heart_rate": 76,
+      "blood_pressure": 97,
+      "temperature": 36.1,
+      "timestamp": "2026-01-28T13:39:59.424727+00:00"
+    },
+    {
+      "patient_id": "PAT017",
+      "heart_rate": 76,
+      "blood_pressure": 116,
+      "temperature": 36.6,
+      "timestamp": "2026-02-02T13:39:59.424730+00:00"
+    },
+    {
+      "patient_id": "PAT018",
+      "heart_rate": 80,
+      "blood_pressure": 92,
+      "temperature": 36.6,
+      "timestamp": "2026-01-18T13:39:59.424732+00:00"
+    },
+    {
+      "patient_id": "PAT019",
+      "heart_rate": 28,
+      "blood_pressure": 29,
+      "temperature": 33.9,
+      "timestamp": "2026-01-24T13:39:59.424739+00:00"
+    },
+    {
+      "patient_id": "PAT020",
+      "heart_rate": 37,
+      "blood_pressure": 214,
+      "temperature": 42.3,
+      "timestamp": "2026-01-06T13:39:59.424745+00:00"
+    },
+    {
+      "patient_id": "PAT021",
+      "heart_rate": 79,
+      "blood_pressure": 140,
+      "temperature": 36.3,
+      "timestamp": "2026-02-03T13:39:59.424748+00:00"
+    },
+    {
+      "patient_id": "PAT022",
+      "heart_rate": 90,
+      "blood_pressure": 105,
+      "temperature": 36.7,
+      "timestamp": "2026-01-11T13:39:59.424750+00:00"
+    },
+    {
+      "patient_id": "PAT023",
+      "heart_rate": 78,
+      "blood_pressure": 127,
+      "temperature": 36.7,
+      "timestamp": "2026-01-08T13:39:59.424753+00:00"
+    },
+    {
+      "patient_id": "PAT024",
+      "heart_rate": 70,
+      "blood_pressure": 121,
+      "temperature": 36.5,
+      "timestamp": "2026-01-29T13:39:59.424756+00:00"
+    },
+    {
+      "patient_id": "PAT025",
+      "heart_rate": 215,
+      "blood_pressure": 228,
+      "temperature": 42.8,
+      "timestamp": "2026-01-18T13:39:59.424761+00:00"
+    },
+    {
+      "patient_id": "PAT026",
+      "heart_rate": 207,
+      "blood_pressure": 18,
+      "temperature": 42.1,
+      "timestamp": "2026-01-14T13:39:59.424765+00:00"
+    },
+    {
+      "patient_id": "PAT027",
+      "heart_rate": 38,
+      "blood_pressure": 218,
+      "temperature": 42.1,
+      "timestamp": "2026-02-03T13:39:59.424770+00:00"
+    },
+    {
+      "patient_id": "PAT028",
+      "heart_rate": 99,
+      "blood_pressure": 104,
+      "temperature": 36.9,
+      "timestamp": "2026-01-05T13:39:59.424773+00:00"
+    },
+    {
+      "patient_id": "PAT029",
+      "heart_rate": 81,
+      "blood_pressure": 98,
+      "temperature": 37.0,
+      "timestamp": "2026-01-24T13:39:59.424776+00:00"
+    },
+    {
+      "patient_id": "PAT030",
+      "heart_rate": 87,
+      "blood_pressure": 94,
+      "temperature": 37.3,
+      "timestamp": "2026-01-28T13:39:59.424780+00:00"
+    }
+  ]
+}
